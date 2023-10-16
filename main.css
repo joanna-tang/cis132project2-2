@@ -113,8 +113,12 @@ nav {
 main {
     float: right;
     width: 95%;
-    padding-left: 10px;
     min-height: 80%;
+}
+
+main h2, main p {
+    margin-top: 15px;
+    margin-left: 100px;
 }
 
 aside {
